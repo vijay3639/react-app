@@ -1,0 +1,12 @@
+{
+	"id": 2,
+	"name": "Yoga",
+	"email": "yoga@test.com",
+	"phone": "987654321",
+	"city": "Chennai",
+	"state": "Tamilnadu",
+	"country": "India",
+	"organization": "Company 2",
+	"jobProfile": "DevOps Engineer",
+	"additionalInfo": "Buys Products Rarely"
+}

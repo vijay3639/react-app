@@ -1,0 +1,12 @@
+{
+	"id": 1,
+	"name": "Vijay",
+	"email": "vijay@test.com",
+	"phone": "123456789",
+	"city": "Chennai",
+	"state": "Tamilnadu",
+	"country": "India",
+	"organization": "Company 1",
+	"jobProfile": "DevOps Engineer",
+	"additionalInfo": "-"
+}
